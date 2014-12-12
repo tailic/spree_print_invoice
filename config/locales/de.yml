@@ -1,11 +1,11 @@
-en:
+de:
   spree:
     customer_invoice: Kundenrechnung
     footer_left: "Andere Informationen"
     footer_left2: " 14 Tage oder nie"
 
     footer_right: "Firma Telefon www "
-    footer_right2: "Meine großartige Firma 040 146 1222 www.gohereoften.com"
+    footer_right2: "Meine Firma 040 146 1222 www.gohereoften.com"
 
     print_note: Dies ist keine echte Rechnung (NICH AN KUNDEN SENDEN!)
 
