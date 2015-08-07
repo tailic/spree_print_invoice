@@ -4,4 +4,4 @@
   <%  buttons.each do |button| %>
     <li><%= link_to(Spree.t(button.to_s + "_print"), spree.admin_order_path(@order, :pdf , :template => button), :class => "button fa fa-print") %></li>
   <% end %>
-<% end %>  
+<% end %>
